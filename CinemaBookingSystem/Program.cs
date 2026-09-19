@@ -13,7 +13,7 @@ namespace CinemaBookingSystem
         static List<Hall> halls = new List<Hall>();
         static List<Slot> slots = new List<Slot>();
         static List<Booking> bookings = new List<Booking>();
-
+        //cinema booking system
         static void Main(string[] args)
         {
 
